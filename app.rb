@@ -8,7 +8,7 @@ end
  get '/hometown' do
  "MMy hometown is  "
 end
- get '/favorite_song' do
+ get '/favorite-song' do
  "My favorite song is "
 end
  
